@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    margin: 20px;
+}
+
+header {
+    background-color: #20c997;
+    padding-top: 5px;
+    height: 150px;
+}
+.container {
+	background-color: #899199;
+}
+h2 {
+    font-weight: bold;
+    color: black;
+    font-size: xx-large;
+}
+
+button {
+    width: 100%;
+}
+.div {
+    background-color: #899199;
+    }
+.space {
+    margin-bottom: 25px;
+}
+
+hr {
+    background-color: #20c997;
+    height: 10px;
+    margin-top: 5px;
+}
+
+h3 {
+    font-size: x-largez;
+    font-weight: bold;
+    color: black;
+}
+
+.current-day {
+    border: 1px solid black;
+    padding: 5px;
+    color: black;
+}
+
+
+
+.forecast-box {
+    background-color: #212529;;
+    border-radius: 0;
+    color: white;
+    border: 3px solid white;
+    box-shadow: none;
+}
+
+.history-city {
+    color: black;
+    background-color: #a1a5a8;
+    box-shadow: none;
+    text-align: center;
+}
