@@ -3,20 +3,34 @@
     background-color: #adb5bd;
     color:aqua;
     text-align: center;
-    margin: 20px;
+    margin: 100px;
 
+
+}
+.a {
+    background-color: black;
+    font-family:'Times New Roman', Times, serif;
 
 }
 .container {
     background-color: #adb5bd;
     color: aqua;
+}
+.currentDay { 
+    background-color:blue;
+    color: wheat;
+    font-weight: 300;
 
+}
+.textarea {
+    margin: 20px;
 }
 button {
     background-color: black;
     color: aqua;
 }
 h3 {
+    background-color: #aebd;
     color: black;
     text-align: center;
     margin: 20px;
